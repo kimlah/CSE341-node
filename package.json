@@ -1,0 +1,27 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "server code for CSE314 personal assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimlah/CSE341-node.git"
+  },
+  "author": "Keeley Imlah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimlah/CSE341-node/issues"
+  },
+  "homepage": "https://github.com/kimlah/CSE341-node#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "standard": "^17.0.0"
+  },
+  "devDependencies": {
+    "node": "^17.7.2"
+  }
+}
