@@ -5,3 +5,9 @@ GET http://localhost:3000/contacts
 GET http://localhost:3000/contacts/626b54f298e7f3ce517dc411
 
 ###
+
+GET https://cse341-node-kimlah.herokuapp.com/localhost:3000/contacts
+
+###
+
+GET https://cse341-node-kimlah.herokuapp.com/localhost:3000/contacts/626b54f298e7f3ce517dc411
