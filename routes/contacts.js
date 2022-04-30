@@ -15,9 +15,9 @@ routes.get('/', (req, res) => {
         dbo.collection("contacts").find().toArray(function(err, result) {
             if (err) throw err;
             // logs to console
-            //console.log(result);
+            console.log(result);
             // sends to browser as json
-            res.json(result);
+            //res.json(result);
             db.close()
         });
     });
