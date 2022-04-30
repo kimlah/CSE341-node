@@ -1,0 +1,25 @@
+{
+    "contact1": {
+        "firstName": "Keeley",
+        "lastname": "Imlah",
+        "email": "keeley.imlah.12@gmail.com",
+        "favColor": "purple",
+        "birthday": "11/23/1992"
+    },
+
+    "contact2": {
+        "firstName": "Spencer",
+        "lastname": "Imlah",
+        "email": "spencer.imlah@gmail.com",
+        "favColor": "blue",
+        "birthday": "03/27/1989"
+    },
+
+    "contact3": {
+        "firstName": "Kris",
+        "lastname": "Williams",
+        "email": "domeng68@yahoo.com",
+        "favColor": "purple",
+        "birthday": "08/04/1968"
+    }
+}
